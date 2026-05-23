@@ -16,5 +16,5 @@ pt-BR (nativo // native) / en-US (B2)
 - **Sistema para gestão de produtos // Product Management System:** Desenvolvimento de um sistema para gestão de estoque e validade de produtos de um açougue utilizando HTML, CSS e JavaScript dentro do *Figma*. // Development of an inventory and expiration date management system for a butcher shop using HTML, CSS, and JavaScript within *Figma*.
 
 ## Contato e Redes // Contact & Networks
-<a href="www.linkedin.com/in/joão-mamede-massoco" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/joão-mamede-massoco" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto: mamedej679@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>

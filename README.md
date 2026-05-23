@@ -3,7 +3,7 @@
 
 ## Sobre Mim // About Me
 Cursando Bacharelado em Ciência da Computação (IFSP - PEP) // Pursuing a B.S. in Computer Science (IFSP - PEP)
-pt-BR (nativo // native) / en-US (B2)
+pt-BR (native) / en-US (B2)
 
 ## Habilidades // Skills
 - **Linguagens // Languages:** `C`, `Assembly`, `SQL`, `Python`, `HTML`, `JavaScript`
